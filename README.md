@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-<details>
+  <details>
 <summary>pony town spam acc</summary>
 
 <sub>
