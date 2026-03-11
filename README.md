@@ -3,9 +3,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> 
-  
-  ### pony town spam acc
+<p align="center"> ### pony town spam acc
 
 <sub>
 if i follow i like your ponies/github woohoo (˶ᵔ ᵕ ᵔ˶)
