@@ -9,4 +9,4 @@
 
 <sub> ${{\color{#a4a29c}{\textsf{block if unwanted}}}}$ <sub/>
 
-${{\color{#a4a29c}{\textsf{!! mostly offtab/semiafk !!}}}}$
+${{\color{#f19f94}{\textsf{!! mostly offtab/semiafk !!}}}}$
