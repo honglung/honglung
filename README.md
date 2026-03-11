@@ -1,1 +1,2 @@
-<video src="--ezgif.com-video-to-gif-converter.mp4" controls width="600"></video>
+<p align="center">
+  <video src="--ezgif.com-video-to-gif-converter.mp4" controls width="600"></video>
