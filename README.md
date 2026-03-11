@@ -1,7 +1,7 @@
 <p align="center">
   <img src="--ezgif.com-optimize.gif" width="700px">
 
-&nbsp;&nbsp;&nbsp;
+---
 
 <h3 align="center"> ${{\color{#a4a29c}{\textsf{ptㅤspamㅤacc}}}}$</h3>
 
