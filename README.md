@@ -5,6 +5,5 @@
 
 ---
 
-&nbsp;&nbsp;
 
 <img width="90" height="30" alt="image" src="District_20_Yurodivy_Hong_Lu_Idle_Animation.gif" /> [[donde esta el titan speakerman]](https://github.com/LCB67) im dripping
