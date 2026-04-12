@@ -3,7 +3,7 @@
 
 <h3 align="center"> ${{\color{#a4a29c}{\textsf{spamㅤfollowㅤacc}}}}$</h3>
 
-<p align="center"> <sub>block if unwanted woohoo</sub>
+<p align="center"> <sub>block if unwanted</sub>
 
 ---
 
